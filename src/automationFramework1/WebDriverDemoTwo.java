@@ -1,4 +1,4 @@
-package automationFramework;
+package automationFramework1;
 
 //import java.util.List;
 import java.util.concurrent.TimeUnit;

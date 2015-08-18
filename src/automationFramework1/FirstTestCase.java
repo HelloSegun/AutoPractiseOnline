@@ -1,4 +1,4 @@
-package automationFramework;
+package automationFramework1;
 
 public class FirstTestCase {
 
